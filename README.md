@@ -15,7 +15,7 @@ You can install `hilbeRt` from github with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("jannikbuhr/hilbeRt")
+remotes::install_github("jmbuhr/hilbeRt")
 ```
 
 ## Example
